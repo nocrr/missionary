@@ -1,0 +1,61 @@
+
+nothing happens                   00/00   01/00
+
+loading                           01/00   01/08
+
+counter 3                         01/08   01/16
+        2                         01/16   01/24
+        1                         01/24   01/32
+
+logo  fade in                     02/00   02/07
+      stay                        02/07   02/55
+      fade out                    02/55   02/61
+
+bosluk                            02/61   03/01
+
+kar start                         03/00   04/00
+    presents                      04/00   05/00
+    missionary stay               05/00   08/00
+    go 2 blank                    08/00   09/00
+
+fire  greets follow               09/00   0A/00
+      stay                        0A/00   0C/00
+      yamuk start                 0C/00   0D/00
+      greets                      0D/00   0D/32
+                                  0D/32   0E/00
+                                  0E/00   0E/32
+                                        .
+                                  14/32   15/00
+
+      normal                      15/00   16/00
+
+
+poem  ekran gelir                 16/00   17/00
+      satir vb                    17/00   17/08
+                                  17/08   17/16
+                                  17/16   17/24
+                                  17/24   17/32
+                                        .
+                                  1A/56   1B/01
+
+star  comes                       1B/01   1C/32
+      sag                         1C/32   1D/01
+      yuk                         1D/01   1D/32
+      a$                          1D/32   1E/01
+      daral                       1E/01   1E/32
+      geni$le                     1E/32   1F/01
+      disappear                   1F/01   1F/32
+
+vu    comes                       20/01   21/01
+      rotates                     21/01   23/01
+      goes                        23/01   24/01
+
+cast                              24/01   28/01
+
+backwards                         28/01   29/01
+
+tv                                29/01   29/63
+
+
+fin
+
